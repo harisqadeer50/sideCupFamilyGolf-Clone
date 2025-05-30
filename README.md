@@ -1,1 +1,2 @@
 # sideCupFamilyGolf-Clone
+clone
